@@ -1,4 +1,4 @@
-# proxide
+# proxyde
 
 Asynchronous proxy finder and checker
 
